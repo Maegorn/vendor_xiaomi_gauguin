@@ -1433,7 +1433,6 @@ PRODUCT_PACKAGES += \
     ImsRcsService \
     IWlanService \
     TimeService \
-    com.qualcomm.qti.gpudrivers.lito.api30 \
     PowerOffAlarm \
     QtiTelephonyService \
     dpmserviceapp \
